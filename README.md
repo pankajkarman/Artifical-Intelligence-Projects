@@ -3,4 +3,4 @@
 - Decision Tree
 - Hierarchical Clustering
 - Neural Network
-- Question Answering Network using Dynamic Memory Network (DMN)
+- Question Answering using Dynamic Memory Network (DMN)
