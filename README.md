@@ -1,2 +1,6 @@
 # Artifical-Intelligence-Projects
-Written from scratch in python.
+- Linear and Polynomial Regression
+- Decision Tree
+- Hierarchical Clustering
+- Neural Network
+- Question Answering Networking using Dynamic Memory Network (DMN)
