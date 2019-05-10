@@ -1,2 +1,2 @@
 # Artifical-Intelligence-Projects
-Projects are written from scratch in python.
+Written from scratch in python.
